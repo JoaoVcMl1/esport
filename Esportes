@@ -53,21 +53,21 @@
 			"name":"SPORTV 3",
 			"link":"https://canaismax.com/assistir.php?chmax=sportv3hd",
 			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	     },
-		 {
-            "id":10,
+	         },
+	 	 {
+                        "id":10,
 			"name":"BAND SPORTS",
 			"link":"https://canaismax.com/assistir.php?chmax=bandsportshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
 		},
 		{
-            "id":11,
+                        "id":11,
 			"name":"COMBATE",
 			"link":"https://canaismax.com/assistir.php?chmax=combatehd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
 		},
 		{
-            "id":12,
+                        "id":12,
 			"name":"DISCOVERY TURBO",
 			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbohd",
 			"poster_path":"https://i.imgur.com/kTrySJZ.png"
