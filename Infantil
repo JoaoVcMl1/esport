@@ -59,6 +59,13 @@
 			"name":"NAT GEO KIDS",
 			"link":"https://canaismax.com/assistir.php?chmax=natgeokidshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-16T204343.077.jpeg?alt=media&token=7e085c82-c99b-4364-a852-e4475a745812"
+		
+        },
+		{
+            "id":11,
+			"name":"TOONCAST",
+			"link":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=tooncastsd",
+			"poster_path":"https://firebasestorage.googleapis.com/v0/b/loja-6f802.appspot.com/o/Tooncast_logo.svg.png?alt=media&token=38bcb60f-4a24-41c0-ae7b-f53a7e60d858"
 		}
 	]
 }
